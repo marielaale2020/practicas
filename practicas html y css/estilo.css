@@ -1,0 +1,33 @@
+.contenedorprincipal{
+ position: absolute;
+ height: 600px;
+ width: 800px;
+background:  rgb(116, 116, 243);
+text-align: center;
+top: 50%;
+right: 50%;
+transform: translate(50%,-50%);
+border-radius: 30px;
+}
+.cardbody{
+background: white;
+height: 90%;
+padding: 20px;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px ;
+}
+body{
+    background-image: url(http://diarioretailsudamericabusiness.com/gt/wp-content/uploads/2018/03/lenguajes-de-programacion-para-principantes-842x474.jpg);
+    background-size: cover;
+ 
+    
+}
+.estilostexto{
+margin-top: 10%;
+}
+.estilotext{
+margin-top: 10%;    
+}
+.text3{
+    margin-top: 15%;
+}
